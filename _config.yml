@@ -22,3 +22,5 @@ expo_new_issue:   https://github.com/twbs/bootstrap-expo/issues/new
 
 docs:             http://getbootstrap.com
 blog:             http://blog.getbootstrap.com
+
+theme: jekyll-theme-cayman
